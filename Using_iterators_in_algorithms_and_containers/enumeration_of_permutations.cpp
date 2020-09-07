@@ -26,7 +26,6 @@ int main() {
 		print_vector(result);
 	} while (std::prev_permutation(result.begin(), result.end()));
 }
-
 //Ввод: 3
 //Вывод: 
 //3 2 1

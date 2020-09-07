@@ -17,7 +17,6 @@ struct Person {
 	bool is_employed;  // имеет ли работу
 };
 
-// Это пример функции, его не нужно отправлять вместе с функцией PrintStats
 template <typename InputIt>
 int ComputeMedianAge(InputIt range_begin, InputIt range_end) {
 	if (range_begin == range_end) {
