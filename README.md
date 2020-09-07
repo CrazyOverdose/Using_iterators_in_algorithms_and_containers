@@ -49,4 +49,3 @@ enum class Gender {
 ```
 void PrintStats(vector<Person> persons);
 ```
-
